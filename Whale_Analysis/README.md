@@ -17,4 +17,4 @@ this is the analysis tool for the assignment.
 The comparisons are to the S&P 500
 
 ### Resources
-this folder contains the data used for the analysis. The data was pulled using google sheets' google finance tool. 
+This folder contains the data used for the analysis. The data was pulled using google sheets' google finance tool.
